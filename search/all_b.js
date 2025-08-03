@@ -86,7 +86,7 @@ var searchData=
   ['pcs_5fvisibility_5fcomputer_5finit_83',['pcs_visibility_computer_init',['../visibility__computer_8h.html#a207390e526b2b750fb1a26b03b52a63e',1,'visibility_computer.h']]],
   ['pcs_5fvisibility_5fcomputer_5fpost_5fhull_84',['pcs_visibility_computer_post_hull',['../visibility__computer_8h.html#a84a1ac8ed96a2d17fb19ac1770a93264',1,'visibility_computer.h']]],
   ['pcs_5fvisibility_5fcomputer_5ft_85',['pcs_visibility_computer_t',['../structpcs__visibility__computer__t.html',1,'']]],
-  ['pcstream_86',['pcstream',['../index.html',1,'']]],
+  ['pcstream_20img_20src_20actions_20workflows_20ci_20yml_20badge_20svg_20alt_20ci_86',['pcstream &lt;img src=&quot;../../actions/workflows/ci.yml/badge.svg&quot; alt=&quot;CI&quot;/&gt;',['../index.html',1,'']]],
   ['pcstream_2eh_87',['pcstream.h',['../pcstream_8h.html',1,'']]],
   ['pcstream_5faction_5fexit_88',['PCSTREAM_ACTION_EXIT',['../def_8h.html#ad0cf99dad4f1bf2ad5378a6cee92f155',1,'def.h']]],
   ['pcstream_5faction_5fexit_5ferror_89',['PCSTREAM_ACTION_EXIT_ERROR',['../def_8h.html#a0d1c7488fd0ceb718514a2182c4817d7',1,'def.h']]],

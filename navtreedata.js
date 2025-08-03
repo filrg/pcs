@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "libpcstream", "index.html", [
-    [ "pcstream", "index.html", "index" ],
+    [ "pcstream <img src=\"../../actions/workflows/ci.yml/badge.svg\" alt=\"CI\"/>", "index.html", "index" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],
